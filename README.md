@@ -1,2 +1,2 @@
 readme.d
-edited locally 
+modified manuslly 
